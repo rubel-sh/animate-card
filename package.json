@@ -1,0 +1,12 @@
+{
+  "name": "animate-card",
+  "version": "1.0.0",
+  "description": "A JavaScript library for applying animations on card/block elements",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["tilt", "effect", "animation","card effect","card tilt"],
+  "author": "Rubel Hossain",
+  "license": "ISC"
+}
